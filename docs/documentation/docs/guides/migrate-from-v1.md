@@ -33,6 +33,6 @@ Although it is not necessary to use the same modules' versions in your project, 
 
 The easiest way to upgrade SharePoint Framework solution is to use [Office365 CLI](https://pnp.github.io/office365-cli/cmd/spfx/project/project-upgrade/#spfx-project-upgrade) `spfx project upgrade` command.
 
-## APIs Changes
+## API Changes
 
 ...
